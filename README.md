@@ -4,7 +4,7 @@
     ✍️ <a href="https://hackmd.io/@pputzh5cRhi6gZI0csfiyA/H1ejIyxHR"> 作者: 鄭永誠</a> • 
     ✉️ <a href="mailto:jason0304050607@gmail.com">信箱</a> • 
     🧑‍🤝‍🧑 <a href="https://www.dalabx.com.tw//"> 合作夥伴: 紫式大數據決策 </a> • 
-    👫 <a href="https://moraleai.com/"> 我的朋朋: Morale AI </a> • 
+    👫 <a href="https://moraleai.com/"> 我的朋朋: Morale AI </a> 
   </p>
 </div>
 <br/>
