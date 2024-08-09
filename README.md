@@ -38,14 +38,15 @@
 
 | 主題 | 簡介 | 類別 | Notebook |
 |----------|-------------|----------|----------|
-| C0-前置作業與基礎工具|建立虛擬環境、基礎python輔助工具| 前置作業 ||
-| C1-簡單使用範例|Groq操作、程式實踐基礎問答| 基礎課程 ||
-| C2-立刻部屬簡易系統|Gradio快速實踐系統介面、即時對話系統| 基礎課程 | |
-| C3-已結合LLM的一些開源工具|智能網頁爬蟲Scrapegraph-ai| 額外分享 ||
-| C4-進階RAG操作|Reranker概念和效果| 上次課程補充 ||
-| C5-實踐LLM服務Agent流程|基於Langchain架構下的LangGraph實踐| 進階課程 ||
-| C6-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 ||
-| C7-fine-tuned簡易操作範例|使用Unsloth簡易實踐fine tuned(只放程式碼、不實際運行)| 進階課程 ||
+| C0-前置作業與基礎工具|建立虛擬環境、基礎python輔助工具| 前置作業 |[C0: 永誠分享](C0-Basic_info.ipynb)|
+| C1-簡單使用範例|Groq操作、程式實踐基礎問答| 基礎課程 |[C1: 永誠分享](C1-Get_start_with_groq.ipynb)|
+| C2-立刻部屬簡易系統|Gradio快速實踐系統介面、即時對話系統| 基礎課程 |[C2: 永誠分享](C2-Create_llm_ui.ipynb) |
+| C3-已結合LLM的一些開源工具|智能網頁爬蟲Scrapegraph-ai| 額外分享 |[C3: 永誠分享](C3-Ai_tools.ipynb)|
+| C4-進階RAG操作|Reranker概念和效果| 上次課程補充 |[C4: 永誠分享](C4-Advanced_rag.ipynb)|
+| C5-實踐LLM服務Agent流程-1|基於Langchain架構下的LangGraph實踐| 進階課程 |[C5: 永誠分享](C5-Agent_flow.ipynb)|
+| C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 ||
+| C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 ||
+| C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐fine tuned(只放程式碼、不實際運行)| 進階課程 ||
 
 
 ## 先備知識
@@ -92,12 +93,9 @@
 ![alt text](images/image-7.png)
 
 
-
-
 ## 課程摘要
 
 ### C0: 可略過
 ### C1: Groq用法
 ### C2: Gradio實踐簡單LLM介面
 ### C3: AI基於LLM發展出來的的AI工具(仍待補充)
-
