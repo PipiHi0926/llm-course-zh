@@ -46,7 +46,7 @@
 | C3-已結合LLM的一些開源工具|智能網頁爬蟲Scrapegraph-ai| 額外分享 |[C3](C3-Ai_tools.ipynb)|
 | C4-進階RAG操作|Reranker概念和效果| 上次課程補充 |[C4](C4-Advanced_rag.ipynb)|
 | C5-實踐LLM服務Agent流程-1|基於Langchain架構下的LangGraph實踐| 進階課程 |[C5](C5-Agent_flow.ipynb)|
-| C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 ||
+| C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 |[C6](C6-Agent_flow.ipynb)|
 | C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 ||
 | C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐fine tuned(只放程式碼、不實際運行)| 進階課程 ||
 
