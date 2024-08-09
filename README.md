@@ -3,10 +3,8 @@
   <p align="center">
     ✍️ <a href="https://hackmd.io/@pputzh5cRhi6gZI0csfiyA/H1ejIyxHR"> 作者: 鄭永誠</a> • 
     ✉️ <a href="mailto:jason0304050607@gmail.com">信箱</a> 
-    🧑‍🤝‍🧑 <a href="https://www.dalabx.com.tw//"> 合作夥伴1: 紫式大數據決策 </a>
-    👫 <a href="https://moraleai.com/"> 合作夥伴2: Morale AI </a>
-    💻 <a href="https://github.com/">資料來源1: 偉大的Github</a> • 
-    🤗 <a href="https://huggingface.co/">資料來源2: 偉大的抱抱臉</a> • 
+    🧑‍🤝‍🧑 <a href="https://www.dalabx.com.tw//"> 夥伴1: 紫式大數據決策 </a>
+    👫 <a href="https://moraleai.com/"> 夥伴2: Morale AI </a>
   </p>
 </div>
 <br/>
@@ -28,6 +26,10 @@
 - 個人主要使用 IDE: VScode
 - 搭配工具 寫程式大幫手 [Copilot](https://github.com/features/copilot)
 - 其他: 使用 [pylint](https://code.visualstudio.com/docs/python/linting) 擴充套件來管理 Python 程式碼的風格
+
+主要資料來源:
+  💻 <a href="https://github.com/">資料來源1: 偉大的Github</a> • 
+  🤗 <a href="https://huggingface.co/">資料來源2: 偉大的抱抱臉</a> • 
 
 ---------------
   
