@@ -28,8 +28,9 @@
 - 其他: 使用 [pylint](https://code.visualstudio.com/docs/python/linting) 擴充套件來管理 Python 程式碼的風格
 
 主要資料來源:
-  💻 <a href="https://github.com/">資料來源1: 偉大的Github</a> • 
-  🤗 <a href="https://huggingface.co/">資料來源2: 偉大的抱抱臉</a> • 
+  💻 <a href="https://github.com/">資料來源1: 偉大的Github</a> 
+  🤗 <a href="https://huggingface.co/">資料來源2: 偉大的抱抱臉</a> 
+  👨 <a href="https://github.com/underlines/awesome-ml/blob/master/llm-tools.md/">巨人的肩膀: LLM相關工具大整理</a>
 
 ---------------
   
@@ -104,5 +105,16 @@
 - C5: Langchain, LangGraph
 - C6: Langchain, LangGraph
 
-接下來就請去各ipynb筆記上去了解如何操作吧~
 
+![alt text](images/image-8.png)
+
+
+接下來就請去各ipynb筆記上去了解如何操作吧 ~
+
+
+
+## 補充: 愛用工具/連結推廣
+1. [Langflow](https://www.langflow.org/) / [Flowise](https://github.com/FlowiseAI/Flowise): 帶你實踐no code介面串接開發大型語言模型應用程式
+2. [COZE](https://www.coze.com/home) (以前免費常用...但現在QQ): 快速部屬LLM服務、Agent、建立dicord bot、設計workflow等，介面很舒服
+3. [perplexity](https://www.perplexity.ai/): 目前(2024.6)用起來最順的LLM輔助網頁搜尋工具
+4. [claude 3.5 sonnet](https://claude.ai/new): 目前(2024.6)覺得code表現能力最棒的LLM，特別是他的[Artifacts](https://www.youtube.com/watch?v=rHqk0ZGb6qo)功能
