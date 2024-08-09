@@ -3,14 +3,14 @@
   <p align="center">
     ✍️ <a href="https://hackmd.io/@pputzh5cRhi6gZI0csfiyA/H1ejIyxHR"> 作者: 鄭永誠</a> • 
     ✉️ <a href="mailto:jason0304050607@gmail.com">信箱</a> 
-    🧑‍🤝‍🧑 <a href="https://www.dalabx.com.tw//"> 夥伴1: 紫式大數據決策 </a>
-    👫 <a href="https://moraleai.com/"> 夥伴2: Morale AI </a>
+    🧑‍🤝‍🧑 <a href="https://www.dalabx.com.tw//"> 合作夥伴1: 紫式大數據決策 </a>
+    👫 <a href="https://moraleai.com/"> 合作夥伴2: Morale AI </a>
   </p>
 </div>
 <br/>
 
 內容簡介:
-1. 🍻 **LLM基礎改念:** 我會整理一些LLM的需求知識，但由於這裡是實作課資源不會講述太多，有興趣詳見我的其他課程
+1. 🍻 **LLM基礎改念:** 我會整理一些LLM的需求知識，但由於這裡是實作課資源不會講述太多，有興趣請聯繫我
 2. 🛠️ **LLM相關工具:** 以下內容全基於python實踐，同時會分享相關資源、套件、開源API...
 3. 💬 **LLM系統架構:** 會帶你由淺入深，慢慢了解部屬LLM系統(多Agent)的方向和好用工具
 
@@ -96,11 +96,10 @@
 
 
 ## 課程套件/工具/架構運用
-
-### C0: 可略過
-### C1: Langchain, Groq
-### C2: Gradio
-### C3: 可略過
-### C4: Sentence-transformer, Reranker (Jina)
-### C5: Langchain, LangGraph
+- C0: 可略過
+- C1: Langchain, Groq
+- C2: Gradio
+- C3: 可略過
+- C4: Sentence-transformer, Reranker (Jina)
+- C5: Langchain, LangGraph
 
