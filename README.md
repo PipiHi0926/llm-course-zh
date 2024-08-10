@@ -44,12 +44,12 @@
 (以前課程內容，此處跳過)
 | 主題 | 簡介 | 類別 | Notebook | Resource|
 |----------|-------------|----------|----------|----------|
-| I1-人工智慧簡介與發展近況 | 什麼是AI? 發展學派與歷史脈絡| 基礎課程 | 見讀書會投影片||
-| I2-機器學習基本概念 |機器/深度學習最最最白話版基礎概念| 基礎課程 | 見讀書會投影片||
-| I3-LLM基礎原理 |Token, Embedding, Transformer...等基礎| 基礎課程 | 見讀書會投影片||
-| I4-LLM相關知識|提示工程、RAG與LLM框架、Fine-tuned，模型超參數| 基礎課程| 見讀書會投影片||
-| I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | 見讀書會投影片|[langflow](https://www.langflow.org/)|
-| I6-簡易部屬|內部使用OpenWeb UI / Anything LLM部屬| 延伸補充 | 見讀書會投影片|[Open-Web-UI](https://github.com/open-webui/open-webui)|
+| I1-人工智慧簡介與發展近況 | 什麼是AI? 發展學派與歷史脈絡| 基礎課程 | 見讀書會ppt||
+| I2-機器學習基本概念 |機器/深度學習最最最白話版基礎概念| 基礎課程 | 見讀書會ppt||
+| I3-LLM基礎原理 |Token, Embedding, Transformer...等基礎| 基礎課程 | 見讀書會ppt||
+| I4-LLM相關知識|提示工程、RAG與LLM框架、Fine-tuned，模型超參數| 基礎課程| 見讀書會ppt||
+| I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | 見讀書會ppt|[langflow](https://www.langflow.org/)|
+| I6-簡易部屬|內部使用OpenWeb UI / Anything LLM部屬| 延伸補充 | 見讀書會ppt|[OpenWebUI](https://github.com/open-webui/open-webui)|
 
 ### ✔️ Part 1: Python 基礎實踐與建立流程
 
@@ -67,7 +67,7 @@
 
 ### ✔️ Part 2: Routing in RAG-Driven Applications
 
-| 主題 | 簡介 | 類別 | Notebook |
+| 主題 | 簡介 | 類別 | Note|
 |----------|-------------|----------|----------|
 | C9-文本處理|| 基礎課程 ||
 | C10-嵌入模型|| 基礎課程 ||
