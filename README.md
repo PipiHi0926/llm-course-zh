@@ -61,7 +61,7 @@
 | C0-前置作業與基礎工具|建立虛擬環境、基礎python輔助工具| 前置準備 |[C0](C0-Basic_info.ipynb)|
 | C1-簡單使用範例|Groq操作、程式實踐基礎問答| 基礎課程 |[C1](C1-Get_start_with_groq.ipynb)|
 | C2-立刻部屬簡易系統|Gradio快速實踐系統介面、即時對話系統| 基礎課程 |[C2](C2-Create_llm_ui.ipynb) |
-| C3-已結合LLM的一些開源工具|智能網頁爬蟲Scrapegraph-ai| 額外分享 |[C3](C3-Ai_tools.ipynb)|
+| C3-已結合LLM的一些開源工具|一些AI工具如open-interpreter,Scrapegraph-ai...| 額外分享 |[C3](C3-Ai_tools.ipynb)|
 | C4-進階RAG操作|Reranker概念和效果| 延伸補充 |[C4](C4-Advanced_rag.ipynb)|
 | C5-實踐LLM服務Agent流程-1|基於Langchain架構下的LangGraph實踐| 進階課程 |[C5](C5-Agent_flow.ipynb)|
 | C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 |[C6](C6-Agent_flow.ipynb)|
