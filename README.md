@@ -243,8 +243,6 @@
 
 如有問題，歡迎用各種方法直接聯繫我，或在GitHub Issue中提交喔~  
 
-![alt text](medium.png)
-
 <div style="text-align: center;">
   <a href="https://www.facebook.com/YCrabbit.0926">
     <img src="images/fb_logo.png" alt="FB" style="width: 30px; height: 30px; margin-right: 10px;">
@@ -265,3 +263,4 @@
 </div>
 
 
+<p style="text-align: center; color: gray; font-size: small;">版權所有© 2024 鄭永誠 YC-Cheng (Jason)。保留所有權力。</p>
