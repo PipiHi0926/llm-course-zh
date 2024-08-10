@@ -69,7 +69,7 @@
 | C5-實踐LLM服務Agent流程-1|基於Langchain架構下的LangGraph實踐| 進階課程 |[C5](C5-Agent_flow.ipynb)|
 | C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 |[C6](C6-Agent_flow.ipynb)|
 | C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 |[C7](C7-Llm_application.ipynb)|
-| C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐qLora fine tuned(只放程式碼、不實際運行)| 進階課程 ||
+| C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐qLora fine tuned(只放程式碼、不實際運行)| 進階課程 |[C8](C8-Finetune.md)|
 
 
 
