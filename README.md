@@ -246,14 +246,15 @@
 
 
 <div style="text-align: center;">
-
   <a href="https://www.anotherlink.com">
-      <img src="images/fb_logo.png" alt="FB" style="width: 30px; height: 30px; margin-left: 10px;">
+    <img src="images/fb_logo.png" alt="FB" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
   <a href="https://www.instagram.com/ssmc__0926/">
-      <img src="images/ig_logo.png" alt="Instagram" style="width: 30px; height: 30px; margin-left: 10px;">
+    <img src="images/ig_logo.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
   <a href="https://www.anotherlink.com">
-      <img src="images/linkin_logo.png" alt="Linkin" style="width: 30px; height: 30px; margin-left: 10px;">
+    <img src="images/linkin_logo.png" alt="Linkin" style="width: 30px; height: 30px;">
   </a>
 </div>
+
 
