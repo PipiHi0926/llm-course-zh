@@ -43,10 +43,13 @@
 
 
 ### ✔️ Part 0: LLM 導論 (Instruction)
-(這些皆以前課程內容，恕此處跳過)
+(這些皆以前讀書會簡報內容，恕此處跳過)
+💡本章節讓你從0開始，讓你了解AI到底是啥、LLM基礎原理到底是怎麼運作的，
+以及了解踏入LLM這塊領域時你必須了解的相關的名詞和知識
+
 
 | 主題 | 簡介 | 類別 | Notebook | Resource|
-|----------|-------------|----------|----------|----------|
+|----------|-------------|:----------:|:----------:|:----------:|
 | I1-人工智慧簡介與發展近況 | 什麼是AI? 發展學派與歷史脈絡| 基礎課程 | 見讀書會ppt||
 | I2-機器學習基本概念 |機器/深度學習最最最白話版基礎概念| 基礎課程 | 見讀書會ppt||
 | I3-LLM基礎原理 |Token, Embedding, Transformer...等基礎| 基礎課程 | 見讀書會ppt||
@@ -54,13 +57,16 @@
 | I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | [flowise](Flowise.md)|[langflow](https://www.langflow.org/)|
 | I6-簡易部屬|內部使用OpenWeb UI / Anything LLM部屬| 延伸補充 | 見讀書會ppt|[OpenWebUI](https://github.com/open-webui/open-webui)|
 
-💡本章節讓你從0開始，讓你了解AI到底是啥、LLM基礎原理到底是怎麼運作的，
-以及了解踏入LLM這塊領域時你必須了解的相關的名詞和知識
+
 
 ### ✔️ Part 1: Python 基礎實踐與建立流程
 
+💡本章節你將了解LLM的基礎使用和部署概念，
+從如何使用LLM、如何建立簡單介面展示、建立流程並管控這些流程等
+並補充一些RAG和fine-tuned的先備知識
+
 | 主題 | 簡介 | 類別 | Notebook |
-|----------|-------------|----------|----------|
+|----------|-------------|:----------:|:----------:|
 | C0-前置作業與基礎工具|建立虛擬環境、基礎python輔助工具| 前置準備 |[C0](C0-Basic_info.ipynb)|
 | C1-簡單使用範例|Groq操作、程式實踐基礎問答| 基礎課程 |[C1](C1-Get_start_with_groq.ipynb)|
 | C2-立刻部屬簡易系統|Gradio快速實踐系統介面、即時對話系統| 基礎課程 |[C2](C2-Create_llm_ui.ipynb) |
@@ -73,27 +79,10 @@
 
 
 
-💡本章節你將了解LLM的基礎使用和部署概念，
-從如何使用LLM、如何建立簡單介面展示、建立流程並管控這些流程等
-並補充一些RAG和fine-tuned的先備知識
-
-<div style="text-align: center;">
-  <a >
-      <img src="images/image-8.png" alt="image-8" style="width: 800px; height: 400px; margin-left: 10px;">
-  </a>
-</div>
-
+![alt text](images/image-8.png)
 
 
 ### ✔️ Part 2: Routing in RAG-Driven Applications
-
-| 主題 | 簡介 | 類別 | Note|
-|----------|-------------|----------|----------|
-| C9-文本資料處理基礎|文檔spit, parse, extract等概念和建立pipeline| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
-| C10-文本處理流程概念|接續C9，資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
-| C11-向量資料庫建置與各功能|| 基礎課程 ||
-| C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
-
 
 💡 本章節你將學會更進一步的資料處理流程，
 最終完整流程(Data Ingestion)可能包含:
@@ -111,6 +100,15 @@
 - **Memories** ➡️  可能會有記錄對話的需求，特別當你建立的是對話式的LLM應用時
 
 - **Output Parsers** ➡️ 把結果轉換成需求的格式，常見如json, md...
+
+
+| 主題 | 簡介 | 類別 | Note|
+|----------|-------------|:----------:|:----------:|
+| C9-文本資料處理基礎|文檔spit, parse, extract等概念和建立pipeline| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
+| C10-文本處理流程概念|接續C9，資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
+| C11-向量資料庫建置與各功能|| 基礎課程 ||
+| C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
+
 
 
 
