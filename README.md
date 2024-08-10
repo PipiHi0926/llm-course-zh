@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤖 大型語言模型中文分享整理 - 2 💻</h1>
+  <h1>🤖 大型語言模型新手入門中文分享整理  💻</h1>
   <p align="center">
     ✍️ <a href="https://hackmd.io/@pputzh5cRhi6gZI0csfiyA/H1ejIyxHR"> 作者: 鄭永誠</a> • 
     ✉️ <a href="mailto:jason0304050607@gmail.com">信箱</a> • 
@@ -68,14 +68,17 @@
 | C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 |[C7](C7-Llm_application.ipynb)|
 | C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐fine tuned(只放程式碼、不實際運行)| 進階課程 ||
 
+![alt text](images/image-8.png)
+
+
 ### ✔️ Part 2: Routing in RAG-Driven Applications
 
 | 主題 | 簡介 | 類別 | Note|
 |----------|-------------|----------|----------|
 | C9-文本處理|文檔切割與解析概念| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
-| C10-嵌入模型|| 基礎課程 ||
-| C11-向量資料庫建置與各功能|| 基礎課程 ||
-| C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
+| C10-文本處理流程概念|資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
+| C12-向量資料庫建置與各功能|| 基礎課程 ||
+| C13-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
 
 
 
@@ -136,20 +139,25 @@
 
 
 
-## 課程套件/工具/架構運用
+## 主要使用的課程套件/工具/架構運用摘要
 - C0: 可略過
-- C1: Langchain, Groq
+- C1: Langchain, Groq, llama_index
 - C2: Gradio
 - C3: 可略過
-- C4: Sentence-transformer, Reranker (Jina)
+- C4: Sentence-transformer, Reranker (with Jina)
 - C5: Langchain, LangGraph
 - C6: Langchain, LangGraph
-
-
-![alt text](images/image-8.png)
-
+- C7: LangSmith
+- C8: Unsloth
+- C9: llama_index
 
 接下來就請去各ipynb筆記上去了解如何操作吧 ~
+
+
+## Backup URL
+- [NVIDIA NeMo](https://www.run.ai/guides/ai-open-source-projects/nvidia-nemo)、[NeMo GitHub](https://github.com/NVIDIA/NeMo)
+
+- [NV llama-3_1-405b-instruct](https://build.nvidia.com/meta/llama-3_1-405b-instruct)
 
 
 
@@ -192,5 +200,5 @@
     - 3Blue1Brown
     - AI小码哥
 
-
+9. LLM資源彙總 [(github)](https://github.com/liguodongiot/llm-resource)
 
