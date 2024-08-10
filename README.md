@@ -170,7 +170,7 @@
 - 模型更新很快，且不同模型在不同面相有不同表現，我這邊不會特別推薦一定要用哪個!
 - 模型普遍理論上，參數越多效果越好，但所需資源空間也越大，如Llama 3.1 405B就代表他是405billion參數的大模型
 - 建議去看HuggingFace上的[LeaderBoard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)，看看個模型在不同面向、語系的排名
-- 若是要用開源模型，建議可先去[Together.ai](https://api.together.ai/signin?redirectUrl=/playground/chat/meta-llama)之類的免費測試不同模型效果~ 再決定用哪個
+- 若是要用開源LLM模型，建議可先去[Together.ai](https://api.together.ai/signin?redirectUrl=/playground/chat/meta-llama)之類的免費測試不同模型效果~ 再決定用哪個
 - 這邊範例，都會是以免費、開源的模型為主!! 甚至是用一些直接免下載模型的API~
 
 ## 主要使用的課程套件/工具/架構運用摘要
