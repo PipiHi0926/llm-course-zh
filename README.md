@@ -79,7 +79,7 @@
 
 <div style="text-align: center;">
   <a >
-      <img src="images/image-8.png" alt="image-8" style="width: 1000px; height: 600px; margin-left: 10px;">
+      <img src="images/image-8.png" alt="image-8" style="width: 800px; height: 400px; margin-left: 10px;">
   </a>
 </div>
 
