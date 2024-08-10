@@ -244,35 +244,24 @@
 如有問題，歡迎用各種方法直接聯繫我，或在GitHub Issue中提交喔~  
 
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://www.facebook.com/YCrabbit.0926">
-        <img src="images/fb_logo.png" alt="FB" width="30" height="30">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.instagram.com/ssmc__0926/">
-        <img src="images/ig_logo.png" alt="Instagram" width="30" height="30">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="mailto:jason0304050607@gmail.com">
-        <img src="images/gmail.png" alt="Gmail" width="30" height="30">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://medium.com/@yc_rabbit">
-        <img src="images/medium.png" alt="medium" width="30" height="30">
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
-        <img src="images/linkin_logo.png" alt="Linkin" width="30" height="30">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://www.facebook.com/YCrabbit.0926">
+    <img src="images/fb_logo.png" alt="FB" width="30" height="30">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ssmc__0926/">
+    <img src="images/ig_logo.png" alt="Instagram" width="30" height="30">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jason0304050607@gmail.com">
+    <img src="images/gmail.png" alt="Gmail" width="30" height="30">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@yc_rabbit">
+    <img src="images/medium.png" alt="medium" width="30" height="30">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
+    <img src="images/linkin_logo.png" alt="Linkin" width="30" height="30">
+  </a>
+</p>
 
 <p align="center">
   <sub>版權所有© 2024 鄭永誠 YC-Cheng (Jason)。保留所有權力。</sub>
