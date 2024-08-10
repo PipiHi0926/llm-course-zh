@@ -259,7 +259,6 @@
   <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
     <img src="images/linkin_logo.png" alt="Linkin" style="width: 30px; height: 30px;">
   </a>
-
 </div>
 
 
