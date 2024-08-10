@@ -54,7 +54,7 @@
 | I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | [flowise](Flowise.md)|[langflow](https://www.langflow.org/)|
 | I6-簡易部屬|內部使用OpenWeb UI / Anything LLM部屬| 延伸補充 | 見讀書會ppt|[OpenWebUI](https://github.com/open-webui/open-webui)|
 
-→ 本章節讓你從0開始，讓你了解AI到底是啥、LLM基礎原理到底是怎麼運作的，
+💡本章節讓你從0開始，讓你了解AI到底是啥、LLM基礎原理到底是怎麼運作的，
 以及了解踏入LLM這塊領域時你必須了解的相關的名詞和知識
 
 ### ✔️ Part 1: Python 基礎實踐與建立流程
@@ -73,7 +73,7 @@
 
 
 
-→ 本章節你將了解LLM的基礎使用和部署概念，
+💡本章節你將了解LLM的基礎使用和部署概念，
 從如何使用LLM、如何建立簡單介面展示、建立流程並管控這些流程等
 並補充一些RAG和fine-tuned的先備知識
 
@@ -95,7 +95,7 @@
 | C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
 
 
-→ 本章節你將學會更進一步的資料處理流程，
+💡 本章節你將學會更進一步的資料處理流程，
 最終完整流程(Data Ingestion)可能包含:
 
 - **Loaders** ➡️ 允許與外部源集成以上傳信息
@@ -111,9 +111,6 @@
 - **Memories** ➡️  可能會有記錄對話的需求，特別當你建立的是對話式的LLM應用時
 
 - **Output Parsers** ➡️ 把結果轉換成需求的格式，常見如json, md...
-
-
-
 
 
 
