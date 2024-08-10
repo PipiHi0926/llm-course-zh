@@ -243,7 +243,7 @@
 
 如有問題，歡迎用各種方法直接聯繫我，或在GitHub Issue中提交喔~  
 
-
+![alt text](image.png)
 
 <div style="text-align: center;">
   <a href="https://www.facebook.com/YCrabbit.0926">
@@ -252,9 +252,13 @@
   <a href="https://www.instagram.com/ssmc__0926/">
     <img src="images/ig_logo.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
+  <a href="mailto:jason0304050607@gmail.com">
+    <img src="images/gmail.png" alt="Gmail" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
   <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
     <img src="images/linkin_logo.png" alt="Linkin" style="width: 30px; height: 30px;">
   </a>
+
 </div>
 
 
