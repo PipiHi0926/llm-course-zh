@@ -9,10 +9,12 @@
 </div>
 <br/>
 
+
+
 內容簡介:
 1. 🍻 **LLM基礎改念:** 我會整理一些LLM的需求知識，但git上是實作資源為主不會講述太多，有興趣請密我
 2. 🛠️ **LLM相關工具:** 以下內容全基於python實踐，同時會分享相關資源、套件、開源API...
-3. 💬 **LLM系統架構:** 會帶你由淺入深，慢慢了解部屬LLM系統(多Agent)的方向和好用工具
+3. 💬 **LLM系統架構:** 會帶你由淺入深，慢慢了解部屬LLM系統(多Agent)的方向和一些好用工具
 
 
 這個分享內容宗旨:
@@ -66,7 +68,7 @@
 | C5-實踐LLM服務Agent流程-1|基於Langchain架構下的LangGraph實踐| 進階課程 |[C5](C5-Agent_flow.ipynb)|
 | C6-實踐LLM服務Agent流程-2|基於Langchain架構下的LangGraph實踐| 進階課程 |[C6](C6-Agent_flow.ipynb)|
 | C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 |[C7](C7-Llm_application.ipynb)|
-| C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐fine tuned(只放程式碼、不實際運行)| 進階課程 ||
+| C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐qLora fine tuned(只放程式碼、不實際運行)| 進階課程 ||
 
 ![alt text](images/image-8.png)
 
@@ -154,13 +156,6 @@
 接下來就請去各ipynb筆記上去了解如何操作吧 ~
 
 
-## Backup URL
-- [NVIDIA NeMo](https://www.run.ai/guides/ai-open-source-projects/nvidia-nemo)、[NeMo GitHub](https://github.com/NVIDIA/NeMo)
-
-- [NV llama-3_1-405b-instruct](https://build.nvidia.com/meta/llama-3_1-405b-instruct)
-
-
-
 ## 補充: 愛用工具/連結推廣
 1. [Langflow](https://www.langflow.org/) / [Flowise](https://github.com/FlowiseAI/Flowise): 帶你實踐no code介面串接開發大型語言模型應用程式
 
@@ -171,6 +166,8 @@
 4. [claude 3.5 sonnet](https://claude.ai/new): 目前(2024.7)覺得code表現能力最棒的LLM，特別是他的[Artifacts](https://www.youtube.com/watch?v=rHqk0ZGb6qo)功能
 
 5. 寫程式一定要[Copilot Github](https://github.com/features/copilot) 或是嘗試近期(2024.7)熱門的 [Cursor](https://www.cursor.com/)，後者我雖沒在用，但都很推
+
+
 
 ## 自學連結
 1. Hugging Face, Github；甚至是 [GAI年會](https://discord.gg/g662TXV6)、臉書社團, iT 邦幫忙, Medium 文章等資源
@@ -201,4 +198,33 @@
     - AI小码哥
 
 9. LLM資源彙總 [(github)](https://github.com/liguodongiot/llm-resource)
+
+10. [llama中文社區 ](https://github.com/LlamaFamily/Llama-Chinese)
+
+## Backup URL
+- [NVIDIA NeMo](https://www.run.ai/guides/ai-open-source-projects/nvidia-nemo)、[NeMo GitHub](https://github.com/NVIDIA/NeMo)
+- [NV llama-3_1-405b-instruct](https://build.nvidia.com/meta/llama-3_1-405b-instruct)
+- https://github.com/xubuvd/LLMs
+- [vanna](https://github.com/vanna-ai/vanna)、[Ragas](https://github.com/explodinggradients/ragas)、[RagGraph](https://github.com/microsoft/graphrag)
+- [zapier](https://zapier.com/app/home)  完全沒任何基礎也能建置如信件、notion等的流程整合服務工具
+- [Dify](https://cloud.dify.ai/apps) 目前用起來覺得，UI介面最舒服且最無難度的上手no code應用流程建置工具 (但要錢用的模型也要錢)
+
+
+## 問題回饋 🤔
+
+如有問題，歡迎用各種方法直接聯繫我，或在GitHub Issue中提交喔~  
+
+
+
+<div style="text-align: center;">
+
+  <a href="https://www.anotherlink.com">
+      <img src="images/fb_logo.png" alt="FB" style="width: 30px; height: 30px; margin-left: 10px;">
+  <a href="https://www.instagram.com/ssmc__0926/">
+      <img src="images/ig_logo.png" alt="Instagram" style="width: 30px; height: 30px; margin-left: 10px;">
+  </a>
+  <a href="https://www.anotherlink.com">
+      <img src="images/linkin_logo.png" alt="Linkin" style="width: 30px; height: 30px; margin-left: 10px;">
+  </a>
+</div>
 
