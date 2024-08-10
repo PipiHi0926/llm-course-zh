@@ -51,10 +51,11 @@
 | I2-機器學習基本概念 |機器/深度學習最最最白話版基礎概念| 基礎課程 | 見讀書會ppt||
 | I3-LLM基礎原理 |Token, Embedding, Transformer...等基礎| 基礎課程 | 見讀書會ppt||
 | I4-LLM相關知識|提示工程、RAG與LLM框架、Fine-tuned，模型超參數| 基礎課程| 見讀書會ppt||
-| I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | 見讀書會ppt|[langflow](https://www.langflow.org/)|
+| I5-實踐工具|LangFlow / Flowise 快速實踐工作流程| 延伸補充 | [flowise](Flowise.md)|[langflow](https://www.langflow.org/)|
 | I6-簡易部屬|內部使用OpenWeb UI / Anything LLM部屬| 延伸補充 | 見讀書會ppt|[OpenWebUI](https://github.com/open-webui/open-webui)|
 
-
+→ 本章節讓你從0開始，讓你了解AI到底是啥、LLM基礎原理到底是怎麼運作的，
+以及了解踏入LLM這塊領域時你必須了解的相關的名詞和知識
 
 ### ✔️ Part 1: Python 基礎實踐與建立流程
 
@@ -70,17 +71,48 @@
 | C7-將Agent流程進行管控|使用langsmith來管理、更清楚瞭解建立的流程| 進階課程 |[C7](C7-Llm_application.ipynb)|
 | C8-fine-tuned簡易操作範例|使用Unsloth簡易實踐qLora fine tuned(只放程式碼、不實際運行)| 進階課程 ||
 
-![alt text](images/image-8.png)
+
+
+→ 本章節你將了解LLM的基礎使用和部署概念，
+從如何使用LLM、如何建立簡單介面展示、建立流程並管控這些流程等
+並補充一些RAG和fine-tuned的先備知識
+
+<div style="text-align: center;">
+  <a >
+      <img src="images/image-8.png" alt="image-8" style="width: 1000px; height: 600px; margin-left: 10px;">
+  </a>
+</div>
+
 
 
 ### ✔️ Part 2: Routing in RAG-Driven Applications
 
 | 主題 | 簡介 | 類別 | Note|
 |----------|-------------|----------|----------|
-| C9-文本資料處理基礎|文檔切割、文本解析概念| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
-| C10-文本處理流程概念|資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
-| C12-向量資料庫建置與各功能|| 基礎課程 ||
-| C13-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
+| C9-文本資料處理基礎|文檔spit, parse, extract等概念和建立pipeline| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
+| C10-文本處理流程概念|接續C9，資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
+| C11-向量資料庫建置與各功能|| 基礎課程 ||
+| C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
+
+
+→ 本章節你將學會更進一步的資料處理流程，
+最終完整流程(Data Ingestion)可能包含:
+
+- **Loaders** ➡️ 允許與外部源集成以上傳信息
+
+- **transormers** ➡️ 各種資料處理流程，如 parse (轉換), split to chunk(分割), extract(擷取), embedding(向量化)... 等多種流程
+
+- **Vector Stores** ➡️ 將資訊存入向量資料庫
+
+- **Retrievers** ➡️ 建立用於信息檢索的組件，從大規模文本數據集中檢索相關信息，即實踐RAG
+
+- **LLM Agent / Tools** ➡️ 各個處理問題的Agent、LLM模型或各種工具
+
+- **Memories** ➡️  可能會有記錄對話的需求，特別當你建立的是對話式的LLM應用時
+
+- **Output Parsers** ➡️ 把結果轉換成需求的格式，常見如json, md...
+
+
 
 
 
