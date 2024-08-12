@@ -172,6 +172,10 @@
 
 ![alt text](images/image-7.png)
 
+- 你可進一步藉由這個[網站](https://poloclub.github.io/transformer-explainer/)，看transformer是如何運作的!!! (使用gpt2)
+
+<video controls src="videos/20240812-1033-17.7788036.mp4" title="Title"></video>
+
 ### 8. 我該使用什麼模型?
 - 模型更新很快，且不同模型在不同面相有不同表現，我這邊不會特別推薦一定要用哪個!
 - 模型普遍理論上，參數越多效果越好，但所需資源空間也越大，如Llama 3.1 405B就代表他是405billion參數的大模型
