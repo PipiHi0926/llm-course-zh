@@ -241,6 +241,8 @@
     - GrandmaCan -我阿嬤都會
     - 3Blue1Brown
     - AI小码哥
+    - 解密遊俠
+    - Leon van Zyl
 
 9. LLM資源彙總 [(github)](https://github.com/liguodongiot/llm-resource)
 
