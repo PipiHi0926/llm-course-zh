@@ -108,8 +108,9 @@
 |----------|-------------|:----------:|:----------:|
 | C9-文本資料處理基礎|文檔spit, parse, extract等概念和建立pipeline| 基礎課程 |[C9](C9-Doc_manage.ipynb)|
 | C10-文本處理流程概念|接續C9，資料處理、Ingestion Pipeline與RAG routing| 基礎課程 ||
-| C11-向量資料庫建置與各功能|| 基礎課程 ||
-| C12-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
+| C11-向量資料庫建置與各功能|chroma, weaviate, pinecone...| 基礎課程 ||
+| C12-常見其他流程框架|流程框架如DSPy介紹|額外分享||
+| C13-其他資料庫結構|知識圖譜與GraphRAG| 延伸補充 ||
 
 
 
@@ -195,7 +196,7 @@
 - C8: Unsloth
 - C9: llama_index
 
-- C12
+- C12: DSPy
 
 接下來就請去各ipynb筆記上去了解如何操作吧 ~
 
