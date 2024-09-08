@@ -42,7 +42,7 @@ Explore the extensive list of cutting-edge RAG techniques:
    #### Implementation 🛠️
    - 💪 **Proposition Generation:** The LLM is used in conjunction with a custom prompt to generate factual statements from the document chunks.
    - ✅ **Quality Checking:** The generated propositions are passed through a grading system that evaluates accuracy, clarity, completeness, and conciseness.
-
+![alt text](image-10.png)
 4. **Semantic Chunking**
 ![alt text](image-4.png)
 ![alt text](image-6.png)
